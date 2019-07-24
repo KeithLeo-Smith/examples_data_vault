@@ -1,2 +1,4 @@
-# examples_data_vault
-some example code for data vault
+# Code snippets for blogs and other content
+
+## 1 - Pattern for pit table when satellite tables are end dated
+
